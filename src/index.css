@@ -45,3 +45,10 @@ body {
   font-size: 27px;
   font-weight: 500;
 }
+
+@media (max-width: 450px) {
+  .start-container {
+    width: 300px;
+    length: 700px;
+  }
+}
